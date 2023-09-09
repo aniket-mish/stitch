@@ -1,3 +1,6 @@
-# ask-me-anything
+# Playground
 
-qna bot
+I'm building a RAG system
+
+## Emerging LLM stack
+
