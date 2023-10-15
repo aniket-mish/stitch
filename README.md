@@ -1,6 +1,8 @@
 # Playground
 
-I'm building a RAG system
+Retrieval Augmented Generation
 
 ## Emerging LLM stack
+
+## References
 
