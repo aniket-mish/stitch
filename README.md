@@ -6,3 +6,10 @@ Retrieval Augmented Generation
 
 ## References
 
+stats00/ml-engineering
+madewithml
+anyscale
+fsdl
+superwise
+
+
