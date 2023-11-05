@@ -20,5 +20,7 @@ Retrieval Augmented Generation
 
 [6] [Best Practices for LLM Evaluation of RAG Applications](https://www.databricks.com/blog/LLM-auto-eval-best-practices-RAG)
 
+[7] [AI Canon]
+
 
 
