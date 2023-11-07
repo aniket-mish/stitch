@@ -20,7 +20,7 @@ Retrieval Augmented Generation
 
 [6] [Best Practices for LLM Evaluation of RAG Applications](https://www.databricks.com/blog/LLM-auto-eval-best-practices-RAG)
 
-[7] [AI Canon]
+[7] [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 
 
 
