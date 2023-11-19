@@ -24,5 +24,5 @@ Retrieval Augmented Generation
 
 [7] [What Is ChatGPT Doing … and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 
-
+[8] Open AI Cookbook
 
