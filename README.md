@@ -1,6 +1,8 @@
 # Playground
 
-Retrieval Augmented Generation (RAG) based chatbot
+Retrieval Augmented Generation(RAG)
+Chatbot
+LLMOps
 
 ## Emerging LLM stack
 
