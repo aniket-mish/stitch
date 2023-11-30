@@ -1,12 +1,37 @@
 # Playground
 
-Retrieval Augmented Generation(RAG)
-Chatbot
-LLMOps
+## Intro to Large Language Models
+
+## Retrieval Augmented Generation(RAG)
 
 ## Emerging LLM stack
 
 ![image](https://github.com/aniket-mish/llms-playground/assets/71699313/8155b0f6-8e63-42ea-8a19-4be7526008cc)
+
+## Training Pipeline
+
+- Load a QnA dataset
+- Fine-tune an open-source LLM using QLoRA
+- Log experiments in an experiment tracker
+- Monitor inference results on a dashboard
+- Store the best model in the model registry
+- Deploy this pipeline to train the LLM
+
+## Streaming Pipeline
+
+- Ingest data
+- Transform the docs into embeddings
+- Store the embeddings
+- CICD pipeline to deploy this pipeline
+
+## Inference Pipeline
+
+- Downloads the model
+- Takes queries
+- Goes to vector db
+- Calls the LLM using the query and context from the vector db
+- Logs the prompt and answer
+- Build a streamlit UI
 
 ## References
 
