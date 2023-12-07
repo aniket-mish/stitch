@@ -1,4 +1,6 @@
-# Playground
+# llms-playground
+
+I am building a rag-based llm application with langchain, bytewax, qdrant.
 
 ## Intro to Large Language Models
 
