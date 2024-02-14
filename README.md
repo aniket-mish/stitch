@@ -1,4 +1,4 @@
-# llms-playground
+# Wordsmith
 
 I am building a rag-based llm application with langchain, bytewax, qdrant, and comet.
 
