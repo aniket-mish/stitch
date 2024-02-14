@@ -1,4 +1,4 @@
-# Wordsmith
+# Stitch
 
 I am building a rag-based llm application with langchain, bytewax, qdrant, and comet.
 
